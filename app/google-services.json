@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257610281256",
+    "project_id": "iconnect-sk45",
+    "storage_bucket": "iconnect-sk45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257610281256:android:560087a750309ce899e01d",
+        "android_client_info": {
+          "package_name": "com.example.iconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257610281256-9oo1u0ku0kvrlu91ph9171lohq36mc45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC90lfDq87NsElpUldJT1ca2xwKc2Co43U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257610281256-9oo1u0ku0kvrlu91ph9171lohq36mc45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
